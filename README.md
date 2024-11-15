@@ -8,6 +8,7 @@ the owner of any content (this includes but is not limited to audio, sound effec
 and you wish for the repository to be removed or for your content to be removed, please reach out at forbiddenwastaken@gmail.com
 
 This is a open-source GLaDOS prompt project.
+I would be happy to accept any donations, so here is my paypal qr-code https://drive.google.com/file/d/1ojbNNro1NMVpNkRq5kei0w1glWd2VZyF/view?usp=sharing
 
 Here are the sources where i got the sounds for the project: Floppy disk sound that plays in the background: https://www.youtube.com/watch?v=7Qz9a8kYYkA
 Glados startup & shutdown sounds: https://www.youtube.com/watch?v=6WmSbCme--Y 

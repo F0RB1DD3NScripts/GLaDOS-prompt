@@ -1,4 +1,4 @@
-GLaDOS prompt 1.0 © 2024 by F0RB1DD3N Scripts is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+GLaDOS prompt 1.0 © 2024 by [F0RB1DD3N Scripts](https://github.com/F0RB1DD3NScripts) is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
                                                            DMCA
